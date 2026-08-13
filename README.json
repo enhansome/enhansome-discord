@@ -1,0 +1,334 @@
+{
+  "items": [
+    {
+      "description": "Back To Top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Node.js: discord.js",
+          "description": "; discord.io; eris; interactions.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:31:27Z",
+            "owner": "discordjs",
+            "repo": "discord.js",
+            "stars": 26780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python: discord.py",
+          "description": "; disco",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T18:33:15Z",
+            "owner": "Rapptz",
+            "repo": "discord.py",
+            "stars": 16138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go: Discordgo",
+          "description": "; DisGord; Arikawa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-14T12:39:28Z",
+            "owner": "bwmarrin",
+            "repo": "discordgo",
+            "stars": 5971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust: Serenity",
+          "description": "; discord-rs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T21:20:12Z",
+            "owner": "serenity-rs",
+            "repo": "serenity",
+            "stars": 5586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java: JDA",
+          "description": "; Javacord; Discord4J",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-09T15:25:24Z",
+            "owner": "discord-jda",
+            "repo": "JDA",
+            "stars": 4675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C#: Discord.Net",
+          "description": "; DSharpPlus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T19:09:28Z",
+            "owner": "discord-net",
+            "repo": "Discord.Net",
+            "stars": 3505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lua: Discordia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-21T16:29:00Z",
+            "owner": "SinisterRectus",
+            "repo": "Discordia",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript: typeit/discord",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T14:42:17Z",
+            "owner": "discordx-ts",
+            "repo": "discordx",
+            "stars": 737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby: discordrb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-19T22:32:28Z",
+            "owner": "shardlab",
+            "repo": "discordrb",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dart: nyxx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T16:08:08Z",
+            "owner": "nyxx-discord",
+            "repo": "nyxx",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clojure: discljord",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-07-22T20:49:23Z",
+            "owner": "discljord",
+            "repo": "discljord",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++: aegis.cpp",
+          "description": "; DPP",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-11-30T22:13:50Z",
+            "owner": "zeroxs",
+            "repo": "aegis.cpp",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP: RestCord",
+          "description": "; Yasmin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-17T15:30:25Z",
+            "owner": "restcord",
+            "repo": "restcord",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift: Sword",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2020-12-04T21:55:34Z",
+            "owner": "Azoy",
+            "repo": "Sword",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crystal: discordcr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Crystal",
+            "last_commit": "2021-01-14T00:57:39Z",
+            "owner": "discordcr",
+            "repo": "discordcr",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haxe: Haxicord",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2022-10-06T20:11:10Z",
+            "owner": "RaidAndFade",
+            "repo": "Haxicord",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haskell: discord-hs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Haskell",
+            "last_commit": "2017-07-11T04:18:21Z",
+            "owner": "TiltMeSenpai",
+            "repo": "Discord.hs",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "💻 API Libraries"
+    },
+    {
+      "description": "Back To Top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tscord",
+          "description": "Create full-fletched discord.js bots from this comprehensive and documented template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-28T18:45:10Z",
+            "owner": "barthofu",
+            "repo": "tscord",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "durl",
+          "description": "An authenticated curl-like command-line client for the Discord API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-11-09T13:31:15Z",
+            "owner": "lukepighetti",
+            "repo": "durl",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "🔗 Tools"
+    },
+    {
+      "description": "Back To Top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Aliucord",
+          "description": "Android Discord client with plugin and themes support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T22:58:17Z",
+            "owner": "Aliucord",
+            "repo": "Aliucord",
+            "stars": 4836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeautifulDiscord",
+          "description": "Adds custom CSS support to Discord.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T17:06:30Z",
+            "owner": "leovoel",
+            "repo": "BeautifulDiscord",
+            "stars": 715
+          }
+        }
+      ],
+      "title": "💬 Modifications"
+    },
+    {
+      "description": "Back To Top",
+      "items": [],
+      "title": "📖 Official Resources"
+    },
+    {
+      "description": "Back To Top",
+      "items": [],
+      "title": "💁‍ Community Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:32:13.629Z",
+    "original_repository": "jacc/awesome-discord",
+    "original_repository_sha": "e84d266d2a3d29e376970dce1084132c6a9fd2f9",
+    "enhanced_repository": "enhansome/enhansome-discord",
+    "enhanced_repository_description": null,
+    "title": "Awesome discord with stars"
+  }
+}
