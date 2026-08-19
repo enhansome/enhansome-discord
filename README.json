@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40484398,
             "language": "TypeScript",
             "last_commit": "2026-08-17T10:13:37Z",
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26788
+            "stars": 26789
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41179827,
             "language": "Python",
             "last_commit": "2026-07-27T18:33:15Z",
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16139
+            "stars": 16142
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45356931,
             "language": "Go",
             "last_commit": "2026-02-14T12:39:28Z",
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5971
+            "stars": 5972
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73012103,
             "language": "Rust",
             "last_commit": "2026-08-08T21:20:12Z",
             "owner": "serenity-rs",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47880207,
             "language": "Java",
             "last_commit": "2026-08-14T19:16:06Z",
             "owner": "discord-jda",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40171496,
             "language": "C#",
             "last_commit": "2026-08-11T19:09:28Z",
             "owner": "discord-net",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56510219,
             "language": "Lua",
             "last_commit": "2026-03-21T16:29:00Z",
             "owner": "SinisterRectus",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 394928667,
             "language": "TypeScript",
             "last_commit": "2026-07-29T14:42:17Z",
             "owner": "discordx-ts",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312700534,
             "language": "Ruby",
             "last_commit": "2026-06-19T22:32:28Z",
             "owner": "shardlab",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137649076,
             "language": "Dart",
             "last_commit": "2026-08-10T16:08:08Z",
             "owner": "nyxx-discord",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111177148,
             "language": "Clojure",
             "last_commit": "2024-07-22T20:49:23Z",
             "owner": "discljord",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 104692292,
             "language": "C++",
             "last_commit": "2021-11-30T22:13:50Z",
             "owner": "zeroxs",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79310512,
             "language": "PHP",
             "last_commit": "2024-03-17T15:30:25Z",
             "owner": "restcord",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 76845492,
             "language": "Swift",
             "last_commit": "2020-12-04T21:55:34Z",
             "owner": "Azoy",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 67284615,
             "language": "Crystal",
             "last_commit": "2021-01-14T00:57:39Z",
             "owner": "discordcr",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96160564,
             "language": "Haxe",
             "last_commit": "2022-10-06T20:11:10Z",
             "owner": "RaidAndFade",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 70862340,
             "language": "Haskell",
             "last_commit": "2017-07-11T04:18:21Z",
             "owner": "TiltMeSenpai",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283051584,
             "language": "TypeScript",
             "last_commit": "2025-01-28T18:45:10Z",
             "owner": "barthofu",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 563059771,
             "language": "Dart",
             "last_commit": "2022-11-09T13:31:15Z",
             "owner": "lukepighetti",
@@ -279,7 +298,7 @@
       "title": "🔗 Tools"
     },
     {
-      "description": "Back To Top",
+      "description": "Back To Top\nWARNING - Use of \"client mods\" are against the Discord TOS - use at your own risk.",
       "items": [
         {
           "node_type": "item",
@@ -288,11 +307,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342909700,
             "language": "Kotlin",
             "last_commit": "2026-08-09T22:58:17Z",
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4838
+            "stars": 4837
           }
         },
         {
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68889762,
             "language": "Python",
             "last_commit": "2023-10-25T17:06:30Z",
             "owner": "leovoel",
@@ -311,21 +332,12 @@
         }
       ],
       "title": "💬 Modifications"
-    },
-    {
-      "description": "Back To Top",
-      "items": [],
-      "title": "📖 Official Resources"
-    },
-    {
-      "description": "Back To Top",
-      "items": [],
-      "title": "💁‍ Community Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:01:22.951Z",
+    "last_updated": "2026-08-19T12:32:40.209Z",
     "original_repository": "jacc/awesome-discord",
+    "original_repository_id": 108609874,
     "original_repository_sha": "e84d266d2a3d29e376970dce1084132c6a9fd2f9",
     "enhanced_repository": "enhansome/enhansome-discord",
     "enhanced_repository_description": null,
