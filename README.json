@@ -30,7 +30,7 @@
             "last_commit": "2026-07-27T18:33:15Z",
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16142
+            "stars": 16144
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 342909700,
             "language": "Kotlin",
-            "last_commit": "2026-08-09T22:58:17Z",
+            "last_commit": "2026-08-19T15:48:40Z",
             "owner": "Aliucord",
             "repo": "Aliucord",
             "stars": 4837
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:40.209Z",
+    "last_updated": "2026-08-19T16:01:56.583Z",
     "original_repository": "jacc/awesome-discord",
     "original_repository_id": 108609874,
     "original_repository_sha": "e84d266d2a3d29e376970dce1084132c6a9fd2f9",
