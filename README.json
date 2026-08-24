@@ -60,7 +60,7 @@
             "last_commit": "2026-08-08T21:20:12Z",
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5588
+            "stars": 5589
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-21T21:24:55Z",
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3510
+            "stars": 3509
           }
         },
         {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:24:20.249Z",
+    "last_updated": "2026-08-24T16:07:59.673Z",
     "original_repository": "jacc/awesome-discord",
     "original_repository_id": 108609874,
     "original_repository_sha": "e84d266d2a3d29e376970dce1084132c6a9fd2f9",
