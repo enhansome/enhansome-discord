@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Back To Top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T10:13:37Z",
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26798
+            "stars": 26799
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-02-14T12:39:28Z",
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5973
+            "stars": 5974
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-08T21:20:12Z",
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5590
+            "stars": 5588
           }
         },
         {
@@ -262,7 +262,7 @@
       "title": "💻 API Libraries"
     },
     {
-      "description": "Back To Top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -298,7 +298,7 @@
       "title": "🔗 Tools"
     },
     {
-      "description": "Back To Top\nWARNING - Use of \"client mods\" are against the Discord TOS - use at your own risk.",
+      "description": "WARNING - Use of \"client mods\" are against the Discord TOS - use at your own risk.",
       "items": [
         {
           "node_type": "item",
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-23T00:30:00Z",
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4843
+            "stars": 4846
           }
         },
         {
@@ -332,10 +332,60 @@
         }
       ],
       "title": "💬 Modifications"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MultiRPC",
+              "description": "Discord rich presence manager app for custom status with support for multiple profiles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155927228,
+                "language": "C#",
+                "last_commit": "2026-05-29T00:03:47Z",
+                "owner": "FluxpointDev",
+                "repo": "MultiRPC",
+                "stars": 241
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rich Presence"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Emote Manager",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260369863,
+                "language": "Python",
+                "last_commit": "2023-02-25T10:41:11Z",
+                "owner": "joyn-gg",
+                "repo": "EmoteManager",
+                "stars": 53
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emoji"
+        }
+      ],
+      "title": "💁‍ Community Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:55:57.387Z",
+    "last_updated": "2026-08-24T14:24:20.249Z",
     "original_repository": "jacc/awesome-discord",
     "original_repository_id": 108609874,
     "original_repository_sha": "e84d266d2a3d29e376970dce1084132c6a9fd2f9",
