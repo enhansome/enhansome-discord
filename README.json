@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T10:13:37Z",
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26799
+            "stars": 26801
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-27T18:33:15Z",
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16148
+            "stars": 16150
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-08T21:20:12Z",
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5589
+            "stars": 5592
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-23T15:32:58Z",
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4680
+            "stars": 4681
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 56510219,
             "language": "Lua",
-            "last_commit": "2026-03-21T16:29:00Z",
+            "last_commit": "2026-08-24T19:54:19Z",
             "owner": "SinisterRectus",
             "repo": "Discordia",
             "stars": 769
@@ -135,7 +135,7 @@
             "last_commit": "2026-06-19T22:32:28Z",
             "owner": "shardlab",
             "repo": "discordrb",
-            "stars": 616
+            "stars": 615
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2025-01-28T18:45:10Z",
             "owner": "barthofu",
             "repo": "tscord",
-            "stars": 317
+            "stars": 318
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-23T00:30:00Z",
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4846
+            "stars": 4847
           }
         },
         {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:07:59.673Z",
+    "last_updated": "2026-08-25T06:16:29.851Z",
     "original_repository": "jacc/awesome-discord",
     "original_repository_id": 108609874,
     "original_repository_sha": "e84d266d2a3d29e376970dce1084132c6a9fd2f9",
