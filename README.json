@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T10:13:37Z",
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26801
+            "stars": 26806
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-27T18:33:15Z",
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16153
+            "stars": 16156
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-08T21:20:12Z",
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5593
+            "stars": 5594
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-21T21:24:55Z",
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3510
+            "stars": 3511
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-06-19T22:32:28Z",
             "owner": "shardlab",
             "repo": "discordrb",
-            "stars": 615
+            "stars": 613
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-23T00:30:00Z",
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4846
+            "stars": 4849
           }
         },
         {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:17:38.235Z",
+    "last_updated": "2026-08-26T16:37:36.410Z",
     "original_repository": "jacc/awesome-discord",
     "original_repository_id": 108609874,
     "original_repository_sha": "e84d266d2a3d29e376970dce1084132c6a9fd2f9",
