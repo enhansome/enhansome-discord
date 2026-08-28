@@ -12,10 +12,10 @@
             "archived": false,
             "id": 40484398,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T10:13:37Z",
+            "last_commit": "2026-08-27T13:01:43Z",
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26805
+            "stars": 26802
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-27T18:33:15Z",
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16156
+            "stars": 16159
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 73012103,
             "language": "Rust",
-            "last_commit": "2026-08-08T21:20:12Z",
+            "last_commit": "2026-08-27T22:01:41Z",
             "owner": "serenity-rs",
             "repo": "serenity",
             "stars": 5593
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-26T19:13:12Z",
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4681
+            "stars": 4680
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-21T21:24:55Z",
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3510
+            "stars": 3511
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-23T00:30:00Z",
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4852
+            "stars": 4853
           }
         },
         {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:46.361Z",
+    "last_updated": "2026-08-28T00:35:53.615Z",
     "original_repository_info": {
       "archived": false,
       "id": 108609874,
