@@ -15,11 +15,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T13:01:43Z",
-            "open_issues": 159,
+            "last_commit": "2026-08-29T06:39:46Z",
+            "open_issues": 158,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26804,
+            "stars": 26806,
             "topics": [
               "bot",
               "discord",
@@ -50,7 +50,7 @@
             "open_issues": 161,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16159,
+            "stars": 16160,
             "topics": [
               "bot",
               "discord",
@@ -106,7 +106,7 @@
             "open_issues": 55,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5594,
+            "stars": 5597,
             "topics": [
               "discord",
               "discord-api",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:53.545Z",
+    "last_updated": "2026-08-29T18:50:00.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
@@ -695,7 +695,7 @@
       "open_issues": 23,
       "owner": "jacc",
       "repo": "awesome-discord",
-      "stars": 533,
+      "stars": 534,
       "topics": [
         "addon",
         "awesome",
