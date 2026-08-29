@@ -50,10 +50,10 @@
 **[Back To Top](#-contents)**
 
 * **Node.js**: [discord.js](https://github.com/discordjs/discord.js) ⭐ 26,804 | 🐛 159 | 🌐 TypeScript | 📅 2026-08-27; [discord.io](https://github.com/izy521/discord.io/) ⚠️ Archived; [eris](https://github.com/abalabahaha/eris) ⭐ 1,516 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28; [interactions.js](https://github.com/fb-sean/interactions.js) ⚠️ Archived
-* **Python**: [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,158 | 🐛 161 | 🌐 Python | 📅 2026-07-27; [disco](https://github.com/b1naryth1ef/disco) ⚠️ Archived
+* **Python**: [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,159 | 🐛 161 | 🌐 Python | 📅 2026-07-27; [disco](https://github.com/b1naryth1ef/disco) ⚠️ Archived
 * **Go**: [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,977 | 🐛 229 | 🌐 Go | 📅 2026-02-14; [DisGord](https://github.com/andersfylling/disgord) ⚠️ Archived; [Arikawa](https://github.com/diamondburned/arikawa) ⭐ 597 | 🐛 35 | 🌐 Go | 📅 2026-05-18
 * **Rust**: [Serenity](https://github.com/zeyla/serenity) ⭐ 5,594 | 🐛 55 | 🌐 Rust | 📅 2026-08-27; [discord-rs](https://github.com/SpaceManiac/discord-rs) ⭐ 396 | 🐛 18 | 🌐 Rust | 📅 2023-11-22
-* **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,682 | 🐛 75 | 🌐 Java | 📅 2026-08-26; [Javacord](https://github.com/BtoBastian/Javacord) ⭐ 769 | 🐛 112 | 🌐 Java | 📅 2025-02-07; [Discord4J](https://github.com/austinv11/Discord4J) ⭐ 1,921 | 🐛 29 | 🌐 Java | 📅 2026-08-28
+* **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,682 | 🐛 76 | 🌐 Java | 📅 2026-08-26; [Javacord](https://github.com/BtoBastian/Javacord) ⭐ 769 | 🐛 112 | 🌐 Java | 📅 2025-02-07; [Discord4J](https://github.com/austinv11/Discord4J) ⭐ 1,921 | 🐛 29 | 🌐 Java | 📅 2026-08-28
 * **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,511 | 🐛 110 | 🌐 C# | 📅 2026-08-21; [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) ⭐ 1,321 | 🐛 98 | 🌐 C# | 📅 2026-08-24
 * **Lua**: [Discordia](https://github.com/SinisterRectus/Discordia) ⭐ 769 | 🐛 51 | 🌐 Lua | 📅 2026-08-24
 * **TypeScript**: [typeit/discord](https://github.com/oceanroleplay/discord.ts) ⭐ 736 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29
