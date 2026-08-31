@@ -49,19 +49,19 @@
 
 **[Back To Top](#-contents)**
 
-* **Node.js**: [discord.js](https://github.com/discordjs/discord.js) ⭐ 26,803 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-30; [discord.io](https://github.com/izy521/discord.io/) ⚠️ Archived; [eris](https://github.com/abalabahaha/eris) ⭐ 1,516 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28; [interactions.js](https://github.com/fb-sean/interactions.js) ⚠️ Archived
-* **Python**: [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,159 | 🐛 161 | 🌐 Python | 📅 2026-07-27; [disco](https://github.com/b1naryth1ef/disco) ⚠️ Archived
+* **Node.js**: [discord.js](https://github.com/discordjs/discord.js) ⭐ 26,804 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-31; [discord.io](https://github.com/izy521/discord.io/) ⚠️ Archived; [eris](https://github.com/abalabahaha/eris) ⭐ 1,517 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28; [interactions.js](https://github.com/fb-sean/interactions.js) ⚠️ Archived
+* **Python**: [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,161 | 🐛 162 | 🌐 Python | 📅 2026-07-27; [disco](https://github.com/b1naryth1ef/disco) ⚠️ Archived
 * **Go**: [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,977 | 🐛 230 | 🌐 Go | 📅 2026-02-14; [DisGord](https://github.com/andersfylling/disgord) ⚠️ Archived; [Arikawa](https://github.com/diamondburned/arikawa) ⭐ 598 | 🐛 35 | 🌐 Go | 📅 2026-05-18
-* **Rust**: [Serenity](https://github.com/zeyla/serenity) ⭐ 5,596 | 🐛 55 | 🌐 Rust | 📅 2026-08-27; [discord-rs](https://github.com/SpaceManiac/discord-rs) ⭐ 396 | 🐛 18 | 🌐 Rust | 📅 2023-11-22
-* **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,682 | 🐛 76 | 🌐 Java | 📅 2026-08-26; [Javacord](https://github.com/BtoBastian/Javacord) ⭐ 769 | 🐛 112 | 🌐 Java | 📅 2025-02-07; [Discord4J](https://github.com/austinv11/Discord4J) ⭐ 1,921 | 🐛 28 | 🌐 Java | 📅 2026-08-29
-* **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,511 | 🐛 110 | 🌐 C# | 📅 2026-08-21; [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) ⭐ 1,323 | 🐛 98 | 🌐 C# | 📅 2026-08-24
+* **Rust**: [Serenity](https://github.com/zeyla/serenity) ⭐ 5,596 | 🐛 56 | 🌐 Rust | 📅 2026-08-27; [discord-rs](https://github.com/SpaceManiac/discord-rs) ⭐ 396 | 🐛 18 | 🌐 Rust | 📅 2023-11-22
+* **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,683 | 🐛 76 | 🌐 Java | 📅 2026-08-26; [Javacord](https://github.com/BtoBastian/Javacord) ⭐ 769 | 🐛 112 | 🌐 Java | 📅 2025-02-07; [Discord4J](https://github.com/austinv11/Discord4J) ⭐ 1,920 | 🐛 29 | 🌐 Java | 📅 2026-08-31
+* **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,512 | 🐛 110 | 🌐 C# | 📅 2026-08-21; [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) ⭐ 1,323 | 🐛 98 | 🌐 C# | 📅 2026-08-24
 * **Lua**: [Discordia](https://github.com/SinisterRectus/Discordia) ⭐ 769 | 🐛 51 | 🌐 Lua | 📅 2026-08-24
 * **TypeScript**: [typeit/discord](https://github.com/oceanroleplay/discord.ts) ⭐ 736 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29
 * **Ruby**: [discordrb](https://github.com/shardlab/discordrb) ⭐ 613 | 🐛 82 | 🌐 Ruby | 📅 2026-06-19
-* **Dart**: [nyxx](https://github.com/l7ssha/nyxx) ⭐ 345 | 🐛 2 | 🌐 Dart | 📅 2026-08-10
+* **Dart**: [nyxx](https://github.com/l7ssha/nyxx) ⭐ 346 | 🐛 2 | 🌐 Dart | 📅 2026-08-10
 * **Clojure**: [discljord](https://github.com/igjoshua/discljord) ⭐ 233 | 🐛 21 | 🌐 Clojure | 📅 2024-07-22
-* **C++**: [aegis.cpp](https://github.com/zeroxs/aegis.cpp) ⚠️ Archived; [DPP](https://github.com/brainboxdotcc/DPP) ⭐ 1,380 | 🐛 4 | 🌐 C++ | 📅 2026-08-25
-* **PHP**: [RestCord](https://github.com/restcord/restcord) ⭐ 178 | 🐛 33 | 🌐 PHP | 📅 2024-03-17; [Yasmin](https://github.com/CharlotteDunois/Yasmin)
+* **C++**: [aegis.cpp](https://github.com/zeroxs/aegis.cpp) ⚠️ Archived; [DPP](https://github.com/brainboxdotcc/DPP) ⭐ 1,382 | 🐛 4 | 🌐 C++ | 📅 2026-08-25
+* **PHP**: [RestCord](https://github.com/restcord/restcord) ⭐ 178 | 🐛 0 | 🌐 PHP | 📅 2026-08-31; [Yasmin](https://github.com/CharlotteDunois/Yasmin)
 * **Swift**: [Sword](https://github.com/Azoy/Sword) ⚠️ Archived
 * **Crystal**: [discordcr](https://github.com/meew0/discordcr) ⚠️ Archived
 * **Haxe**: [Haxicord](https://github.com/RaidAndFade/Haxicord) ⭐ 61 | 🐛 2 | 🌐 Haxe | 📅 2022-10-06
@@ -72,7 +72,7 @@
 
 **[Back To Top](#-contents)**
 
-* [tscord](https://github.com/barthofu/tscord) ⭐ 318 | 🐛 7 | 🌐 TypeScript | 📅 2025-01-28 - Create full-fletched discord.js bots from this comprehensive and documented template.
+* [tscord](https://github.com/barthofu/tscord) ⭐ 317 | 🐛 7 | 🌐 TypeScript | 📅 2025-01-28 - Create full-fletched discord.js bots from this comprehensive and documented template.
 * [durl](https://github.com/lukepighetti/durl) ⭐ 9 | 🐛 0 | 🌐 Dart | 📅 2022-11-09 - An authenticated curl-like command-line client for the Discord API
 * [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
 * [discord-logo](http://nntin.github.io/discord-logo) - Create your own animated Discord logo and embed it into your website
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
