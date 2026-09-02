@@ -15,11 +15,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T21:25:15Z",
+            "last_commit": "2026-09-02T18:39:32Z",
             "open_issues": 154,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26803,
+            "stars": 26808,
             "topics": [
               "bot",
               "discord",
@@ -50,7 +50,7 @@
             "open_issues": 163,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16160,
+            "stars": 16161,
             "topics": [
               "bot",
               "discord",
@@ -76,10 +76,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-02-14T12:39:28Z",
-            "open_issues": 230,
+            "open_issues": 231,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5976,
+            "stars": 5978,
             "topics": [
               "discord",
               "discord-api",
@@ -102,8 +102,8 @@
             "id": 73012103,
             "language": "Rust",
             "license": "ISC",
-            "last_commit": "2026-08-27T22:01:41Z",
-            "open_issues": 57,
+            "last_commit": "2026-09-02T16:00:43Z",
+            "open_issues": 56,
             "owner": "serenity-rs",
             "repo": "serenity",
             "stars": 5597,
@@ -166,7 +166,7 @@
             "open_issues": 110,
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3512,
+            "stars": 3511,
             "topics": [
               "bot",
               "csharp",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:49:05.751Z",
+    "last_updated": "2026-09-02T18:56:25.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
@@ -692,7 +692,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-05-11T15:03:26Z",
-      "open_issues": 24,
+      "open_issues": 25,
       "owner": "jacc",
       "repo": "awesome-discord",
       "stars": 535,
