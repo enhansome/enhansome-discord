@@ -19,7 +19,7 @@
             "open_issues": 155,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26807,
+            "stars": 26808,
             "topics": [
               "bot",
               "discord",
@@ -47,10 +47,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T09:18:12Z",
-            "open_issues": 163,
+            "open_issues": 164,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16165,
+            "stars": 16167,
             "topics": [
               "bot",
               "discord",
@@ -128,11 +128,11 @@
             "id": 47880207,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T19:13:12Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-04T19:16:29Z",
+            "open_issues": 78,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4685,
+            "stars": 4686,
             "topics": [
               "api",
               "api-wrapper",
@@ -162,7 +162,7 @@
             "id": 40171496,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-21T21:24:55Z",
+            "last_commit": "2026-09-05T10:28:54Z",
             "open_issues": 110,
             "owner": "discord-net",
             "repo": "Discord.Net",
@@ -278,7 +278,7 @@
             "open_issues": 2,
             "owner": "nyxx-discord",
             "repo": "nyxx",
-            "stars": 346,
+            "stars": 347,
             "topics": [
               "api",
               "api-client",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:33:08.617Z",
+    "last_updated": "2026-09-05T17:36:29.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
