@@ -15,11 +15,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T18:37:31Z",
-            "open_issues": 163,
+            "last_commit": "2026-09-11T13:33:16Z",
+            "open_issues": 164,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26818,
+            "stars": 26821,
             "topics": [
               "bot",
               "discord",
@@ -50,7 +50,7 @@
             "open_issues": 164,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16175,
+            "stars": 16182,
             "topics": [
               "bot",
               "discord",
@@ -79,7 +79,7 @@
             "open_issues": 232,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5984,
+            "stars": 5985,
             "topics": [
               "discord",
               "discord-api",
@@ -132,7 +132,7 @@
             "open_issues": 73,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4690,
+            "stars": 4691,
             "topics": [
               "api",
               "api-wrapper",
@@ -571,10 +571,10 @@
             "language": "Kotlin",
             "license": "OSL-3.0",
             "last_commit": "2026-09-01T00:35:55Z",
-            "open_issues": 108,
+            "open_issues": 109,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4858,
+            "stars": 4859,
             "topics": [
               "android",
               "discord",
@@ -633,7 +633,7 @@
                 "open_issues": 0,
                 "owner": "FluxpointDev",
                 "repo": "MultiRPC",
-                "stars": 241,
+                "stars": 242,
                 "topics": [
                   "discord",
                   "rich-presence",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:40:30.028Z",
+    "last_updated": "2026-09-11T18:44:22.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
