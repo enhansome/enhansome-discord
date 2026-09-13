@@ -15,11 +15,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T19:45:01Z",
-            "open_issues": 164,
+            "last_commit": "2026-09-12T22:12:55Z",
+            "open_issues": 163,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26821,
+            "stars": 26820,
             "topics": [
               "bot",
               "discord",
@@ -47,7 +47,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T18:11:46Z",
-            "open_issues": 165,
+            "open_issues": 166,
             "owner": "Rapptz",
             "repo": "discord.py",
             "stars": 16183,
@@ -106,7 +106,7 @@
             "open_issues": 59,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5604,
+            "stars": 5606,
             "topics": [
               "discord",
               "discord-api",
@@ -166,7 +166,7 @@
             "open_issues": 110,
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3510,
+            "stars": 3512,
             "topics": [
               "bot",
               "csharp",
@@ -570,11 +570,11 @@
             "id": 342909700,
             "language": "Kotlin",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-01T00:35:55Z",
-            "open_issues": 109,
+            "last_commit": "2026-09-13T04:32:23Z",
+            "open_issues": 108,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4862,
+            "stars": 4865,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:48:41.392Z",
+    "last_updated": "2026-09-13T18:20:03.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
