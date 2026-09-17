@@ -19,7 +19,7 @@
             "open_issues": 165,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26823,
+            "stars": 26825,
             "topics": [
               "bot",
               "discord",
@@ -47,10 +47,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T18:11:46Z",
-            "open_issues": 169,
+            "open_issues": 171,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16187,
+            "stars": 16186,
             "topics": [
               "bot",
               "discord",
@@ -79,7 +79,7 @@
             "open_issues": 232,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5992,
+            "stars": 5994,
             "topics": [
               "discord",
               "discord-api",
@@ -129,10 +129,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T19:15:00Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4692,
+            "stars": 4691,
             "topics": [
               "api",
               "api-wrapper",
@@ -570,8 +570,8 @@
             "id": 342909700,
             "language": "Kotlin",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-13T04:32:23Z",
-            "open_issues": 108,
+            "last_commit": "2026-09-17T14:31:10Z",
+            "open_issues": 106,
             "owner": "Aliucord",
             "repo": "Aliucord",
             "stars": 4870,
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:04:15.180Z",
+    "last_updated": "2026-09-17T19:14:46.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
