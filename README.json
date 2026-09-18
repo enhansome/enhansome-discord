@@ -15,11 +15,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T13:45:58Z",
+            "last_commit": "2026-09-18T10:46:02Z",
             "open_issues": 165,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26825,
+            "stars": 26824,
             "topics": [
               "bot",
               "discord",
@@ -47,10 +47,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T18:11:46Z",
-            "open_issues": 171,
+            "open_issues": 172,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16186,
+            "stars": 16187,
             "topics": [
               "bot",
               "discord",
@@ -132,7 +132,7 @@
             "open_issues": 77,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4691,
+            "stars": 4689,
             "topics": [
               "api",
               "api-wrapper",
@@ -166,7 +166,7 @@
             "open_issues": 110,
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3512,
+            "stars": 3511,
             "topics": [
               "bot",
               "csharp",
@@ -254,7 +254,7 @@
             "open_issues": 82,
             "owner": "shardlab",
             "repo": "discordrb",
-            "stars": 613,
+            "stars": 612,
             "topics": [
               "discord",
               "hacktoberfest"
@@ -278,7 +278,7 @@
             "open_issues": 2,
             "owner": "nyxx-discord",
             "repo": "nyxx",
-            "stars": 346,
+            "stars": 345,
             "topics": [
               "api",
               "api-client",
@@ -424,7 +424,7 @@
             "open_issues": 26,
             "owner": "discordcr",
             "repo": "discordcr",
-            "stars": 136,
+            "stars": 135,
             "topics": [
               "crystal",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:14:46.616Z",
+    "last_updated": "2026-09-18T18:37:50.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
@@ -692,7 +692,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-05-11T15:03:26Z",
-      "open_issues": 26,
+      "open_issues": 27,
       "owner": "jacc",
       "repo": "awesome-discord",
       "stars": 538,
