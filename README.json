@@ -79,7 +79,7 @@
             "open_issues": 232,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5991,
+            "stars": 5992,
             "topics": [
               "discord",
               "discord-api",
@@ -103,10 +103,10 @@
             "language": "Rust",
             "license": "ISC",
             "last_commit": "2026-09-19T02:48:24Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5612,
+            "stars": 5613,
             "topics": [
               "discord",
               "discord-api",
@@ -132,7 +132,7 @@
             "open_issues": 75,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4690,
+            "stars": 4691,
             "topics": [
               "api",
               "api-wrapper",
@@ -251,10 +251,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-06-19T22:32:28Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "shardlab",
             "repo": "discordrb",
-            "stars": 612,
+            "stars": 611,
             "topics": [
               "discord",
               "hacktoberfest"
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:06:59.448Z",
+    "last_updated": "2026-09-22T19:07:39.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
