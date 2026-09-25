@@ -19,7 +19,7 @@
             "open_issues": 163,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26824,
+            "stars": 26825,
             "topics": [
               "bot",
               "discord",
@@ -76,10 +76,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-02-14T12:39:28Z",
-            "open_issues": 231,
+            "open_issues": 232,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5991,
+            "stars": 5989,
             "topics": [
               "discord",
               "discord-api",
@@ -132,7 +132,7 @@
             "open_issues": 75,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4692,
+            "stars": 4691,
             "topics": [
               "api",
               "api-wrapper",
@@ -166,7 +166,7 @@
             "open_issues": 110,
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3513,
+            "stars": 3512,
             "topics": [
               "bot",
               "csharp",
@@ -574,7 +574,7 @@
             "open_issues": 110,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4868,
+            "stars": 4870,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:29:38.655Z",
+    "last_updated": "2026-09-25T19:32:08.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
