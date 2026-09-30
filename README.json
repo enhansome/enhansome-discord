@@ -15,8 +15,8 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T21:32:33Z",
-            "open_issues": 154,
+            "last_commit": "2026-09-30T00:20:54Z",
+            "open_issues": 151,
             "owner": "discordjs",
             "repo": "discord.js",
             "stars": 26819,
@@ -47,10 +47,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T18:11:46Z",
-            "open_issues": 175,
+            "open_issues": 176,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16192,
+            "stars": 16191,
             "topics": [
               "bot",
               "discord",
@@ -106,7 +106,7 @@
             "open_issues": 57,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5617,
+            "stars": 5619,
             "topics": [
               "discord",
               "discord-api",
@@ -571,10 +571,10 @@
             "language": "Kotlin",
             "license": "OSL-3.0",
             "last_commit": "2026-09-27T15:34:56Z",
-            "open_issues": 106,
+            "open_issues": 107,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4874,
+            "stars": 4878,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:12:26.597Z",
+    "last_updated": "2026-09-30T20:17:27.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
