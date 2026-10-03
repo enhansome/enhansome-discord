@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26817,
+            "stars": 26819,
             "topics": [
               "bot",
               "discord",
@@ -50,7 +50,7 @@
             "open_issues": 176,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16191,
+            "stars": 16193,
             "topics": [
               "bot",
               "discord",
@@ -182,7 +182,7 @@
         {
           "node_type": "item",
           "title": "Lua: Discordia",
-          "description": null,
+          "description": "SinisterRectus/Discordia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -208,7 +208,7 @@
         {
           "node_type": "item",
           "title": "TypeScript: typeit/discord",
-          "description": null,
+          "description": "discordx-ts/discordx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -241,7 +241,7 @@
         {
           "node_type": "item",
           "title": "Ruby: discordrb",
-          "description": null,
+          "description": "shardlab/discordrb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -265,7 +265,7 @@
         {
           "node_type": "item",
           "title": "Dart: nyxx",
-          "description": null,
+          "description": "nyxx-discord/nyxx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -299,7 +299,7 @@
         {
           "node_type": "item",
           "title": "Clojure: discljord",
-          "description": null,
+          "description": "discljord/discljord",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,7 +386,7 @@
         {
           "node_type": "item",
           "title": "Swift: Sword",
-          "description": null,
+          "description": "Azoy/Sword",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -411,7 +411,7 @@
         {
           "node_type": "item",
           "title": "Crystal: discordcr",
-          "description": null,
+          "description": "discordcr/discordcr",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -436,7 +436,7 @@
         {
           "node_type": "item",
           "title": "Haxe: Haxicord",
-          "description": null,
+          "description": "RaidAndFade/Haxicord",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -471,7 +471,7 @@
         {
           "node_type": "item",
           "title": "Haskell: discord-hs",
-          "description": null,
+          "description": "TiltMeSenpai/Discord.hs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -571,7 +571,7 @@
             "language": "Kotlin",
             "license": "OSL-3.0",
             "last_commit": "2026-10-01T00:37:03Z",
-            "open_issues": 109,
+            "open_issues": 108,
             "owner": "Aliucord",
             "repo": "Aliucord",
             "stars": 4877,
@@ -653,7 +653,7 @@
             {
               "node_type": "item",
               "title": "Emote Manager",
-              "description": null,
+              "description": "joyn-gg/EmoteManager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:07:16.699Z",
+    "last_updated": "2026-10-03T04:41:24.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
