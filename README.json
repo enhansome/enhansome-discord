@@ -50,7 +50,7 @@
             "open_issues": 175,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16193,
+            "stars": 16195,
             "topics": [
               "bot",
               "discord",
@@ -79,7 +79,7 @@
             "open_issues": 233,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5988,
+            "stars": 5987,
             "topics": [
               "discord",
               "discord-api",
@@ -132,7 +132,7 @@
             "open_issues": 76,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4692,
+            "stars": 4693,
             "topics": [
               "api",
               "api-wrapper",
@@ -515,7 +515,7 @@
             "open_issues": 7,
             "owner": "barthofu",
             "repo": "tscord",
-            "stars": 316,
+            "stars": 315,
             "topics": [
               "discord",
               "discord-bot",
@@ -574,7 +574,7 @@
             "open_issues": 107,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4878,
+            "stars": 4881,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:10:22.663Z",
+    "last_updated": "2026-10-06T11:06:47.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
