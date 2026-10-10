@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26815,
+            "stars": 26816,
             "topics": [
               "bot",
               "discord",
@@ -47,7 +47,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T18:11:46Z",
-            "open_issues": 177,
+            "open_issues": 178,
             "owner": "Rapptz",
             "repo": "discord.py",
             "stars": 16195,
@@ -106,7 +106,7 @@
             "open_issues": 59,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5627,
+            "stars": 5629,
             "topics": [
               "discord",
               "discord-api",
@@ -574,7 +574,7 @@
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4887,
+            "stars": 4891,
             "topics": [
               "android",
               "discord",
@@ -600,7 +600,7 @@
             "open_issues": 34,
             "owner": "leovoel",
             "repo": "BeautifulDiscord",
-            "stars": 713,
+            "stars": 714,
             "topics": [
               "demo-gif",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:19:13.449Z",
+    "last_updated": "2026-10-10T19:30:18.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
