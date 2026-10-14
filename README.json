@@ -15,8 +15,8 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T15:29:33Z",
-            "open_issues": 158,
+            "last_commit": "2026-10-14T01:06:30Z",
+            "open_issues": 157,
             "owner": "discordjs",
             "repo": "discord.js",
             "stars": 26817,
@@ -50,7 +50,7 @@
             "open_issues": 178,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16197,
+            "stars": 16199,
             "topics": [
               "bot",
               "discord",
@@ -76,10 +76,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-02-14T12:39:28Z",
-            "open_issues": 233,
+            "open_issues": 234,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5987,
+            "stars": 5988,
             "topics": [
               "discord",
               "discord-api",
@@ -106,7 +106,7 @@
             "open_issues": 57,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5629,
+            "stars": 5630,
             "topics": [
               "discord",
               "discord-api",
@@ -570,11 +570,11 @@
             "id": 342909700,
             "language": "Kotlin",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-11T17:19:44Z",
+            "last_commit": "2026-10-14T11:45:06Z",
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4898,
+            "stars": 4902,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:48:42.097Z",
+    "last_updated": "2026-10-14T19:40:59.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
@@ -692,7 +692,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-05-11T15:03:26Z",
-      "open_issues": 32,
+      "open_issues": 31,
       "owner": "jacc",
       "repo": "awesome-discord",
       "stars": 539,
