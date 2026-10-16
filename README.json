@@ -15,7 +15,7 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T01:06:30Z",
+            "last_commit": "2026-10-16T14:01:28Z",
             "open_issues": 157,
             "owner": "discordjs",
             "repo": "discord.js",
@@ -106,7 +106,7 @@
             "open_issues": 57,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5629,
+            "stars": 5631,
             "topics": [
               "discord",
               "discord-api",
@@ -129,7 +129,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T19:28:36Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "discord-jda",
             "repo": "JDA",
             "stars": 4692,
@@ -163,7 +163,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-08T16:09:12Z",
-            "open_issues": 111,
+            "open_issues": 112,
             "owner": "discord-net",
             "repo": "Discord.Net",
             "stars": 3517,
@@ -195,7 +195,7 @@
             "open_issues": 51,
             "owner": "SinisterRectus",
             "repo": "Discordia",
-            "stars": 776,
+            "stars": 774,
             "topics": [
               "discord",
               "discord-api",
@@ -378,7 +378,7 @@
             "open_issues": 2,
             "owner": "restcord",
             "repo": "restcord",
-            "stars": 177,
+            "stars": 175,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.260Z"
@@ -574,7 +574,7 @@
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4903,
+            "stars": 4902,
             "topics": [
               "android",
               "discord",
@@ -633,7 +633,7 @@
                 "open_issues": 0,
                 "owner": "FluxpointDev",
                 "repo": "MultiRPC",
-                "stars": 241,
+                "stars": 242,
                 "topics": [
                   "discord",
                   "rich-presence",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:22:03.413Z",
+    "last_updated": "2026-10-16T19:00:55.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
@@ -692,10 +692,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-05-11T15:03:26Z",
-      "open_issues": 31,
+      "open_issues": 32,
       "owner": "jacc",
       "repo": "awesome-discord",
-      "stars": 539,
+      "stars": 540,
       "topics": [
         "addon",
         "awesome",
