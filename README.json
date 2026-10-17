@@ -19,7 +19,7 @@
             "open_issues": 157,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26819,
+            "stars": 26818,
             "topics": [
               "bot",
               "discord",
@@ -47,10 +47,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T18:11:46Z",
-            "open_issues": 179,
+            "open_issues": 180,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16199,
+            "stars": 16197,
             "topics": [
               "bot",
               "discord",
@@ -79,7 +79,7 @@
             "open_issues": 234,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5988,
+            "stars": 5989,
             "topics": [
               "discord",
               "discord-api",
@@ -106,7 +106,7 @@
             "open_issues": 57,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5631,
+            "stars": 5632,
             "topics": [
               "discord",
               "discord-api",
@@ -128,11 +128,11 @@
             "id": 47880207,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T19:28:36Z",
+            "last_commit": "2026-10-16T19:15:21Z",
             "open_issues": 78,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4692,
+            "stars": 4690,
             "topics": [
               "api",
               "api-wrapper",
@@ -221,7 +221,7 @@
             "open_issues": 0,
             "owner": "discordx-ts",
             "repo": "discordx",
-            "stars": 737,
+            "stars": 736,
             "topics": [
               "bot",
               "command",
@@ -254,7 +254,7 @@
             "open_issues": 84,
             "owner": "shardlab",
             "repo": "discordrb",
-            "stars": 612,
+            "stars": 613,
             "topics": [
               "discord",
               "hacktoberfest"
@@ -374,8 +374,8 @@
             "id": 79310512,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-06T21:12:16Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-17T10:14:25Z",
+            "open_issues": 3,
             "owner": "restcord",
             "repo": "restcord",
             "stars": 175,
@@ -574,7 +574,7 @@
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4902,
+            "stars": 4899,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:00:55.427Z",
+    "last_updated": "2026-10-17T17:55:20.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
