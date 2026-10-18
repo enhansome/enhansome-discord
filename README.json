@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T14:01:28Z",
-            "open_issues": 157,
+            "open_issues": 156,
             "owner": "discordjs",
             "repo": "discord.js",
             "stars": 26818,
@@ -47,7 +47,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T18:11:46Z",
-            "open_issues": 180,
+            "open_issues": 181,
             "owner": "Rapptz",
             "repo": "discord.py",
             "stars": 16197,
@@ -76,7 +76,7 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-02-14T12:39:28Z",
-            "open_issues": 234,
+            "open_issues": 233,
             "owner": "bwmarrin",
             "repo": "discordgo",
             "stars": 5989,
@@ -132,7 +132,7 @@
             "open_issues": 78,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4690,
+            "stars": 4692,
             "topics": [
               "api",
               "api-wrapper",
@@ -574,7 +574,7 @@
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4899,
+            "stars": 4902,
             "topics": [
               "android",
               "discord",
@@ -600,7 +600,7 @@
             "open_issues": 34,
             "owner": "leovoel",
             "repo": "BeautifulDiscord",
-            "stars": 713,
+            "stars": 714,
             "topics": [
               "demo-gif",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:55:20.089Z",
+    "last_updated": "2026-10-18T18:16:06.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
