@@ -15,11 +15,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T14:01:28Z",
+            "last_commit": "2026-10-20T08:42:17Z",
             "open_issues": 157,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26815,
+            "stars": 26818,
             "topics": [
               "bot",
               "discord",
@@ -79,7 +79,7 @@
             "open_issues": 233,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5988,
+            "stars": 5990,
             "topics": [
               "discord",
               "discord-api",
@@ -102,11 +102,11 @@
             "id": 73012103,
             "language": "Rust",
             "license": "ISC",
-            "last_commit": "2026-10-13T19:04:10Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-20T18:31:31Z",
+            "open_issues": 60,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5633,
+            "stars": 5634,
             "topics": [
               "discord",
               "discord-api",
@@ -374,8 +374,8 @@
             "id": 79310512,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-17T10:14:25Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-20T18:11:47Z",
+            "open_issues": 4,
             "owner": "restcord",
             "repo": "restcord",
             "stars": 175,
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:42:14.024Z",
+    "last_updated": "2026-10-20T19:33:46.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",

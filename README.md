@@ -49,11 +49,11 @@
 
 **[Back To Top](#-contents)**
 
-* **Node.js**: [discord.js](https://github.com/discordjs/discord.js) ⭐ 26,815 | 🐛 157 | 🌐 TypeScript | 📅 2026-10-16; [discord.io](https://github.com/izy521/discord.io/) ⚠️ Archived; [eris](https://github.com/abalabahaha/eris) ⭐ 1,513 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28; [interactions.js](https://github.com/fb-sean/interactions.js) ⚠️ Archived
+* **Node.js**: [discord.js](https://github.com/discordjs/discord.js) ⭐ 26,818 | 🐛 157 | 🌐 TypeScript | 📅 2026-10-20; [discord.io](https://github.com/izy521/discord.io/) ⚠️ Archived; [eris](https://github.com/abalabahaha/eris) ⭐ 1,513 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28; [interactions.js](https://github.com/fb-sean/interactions.js) ⚠️ Archived
 * **Python**: [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,198 | 🐛 181 | 🌐 Python | 📅 2026-09-07; [disco](https://github.com/b1naryth1ef/disco) ⚠️ Archived
-* **Go**: [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,988 | 🐛 233 | 🌐 Go | 📅 2026-02-14; [DisGord](https://github.com/andersfylling/disgord) ⚠️ Archived; [Arikawa](https://github.com/diamondburned/arikawa) ⭐ 600 | 🐛 35 | 🌐 Go | 📅 2026-05-18
-* **Rust**: [Serenity](https://github.com/zeyla/serenity) ⭐ 5,633 | 🐛 59 | 🌐 Rust | 📅 2026-10-13; [discord-rs](https://github.com/SpaceManiac/discord-rs) ⭐ 397 | 🐛 18 | 🌐 Rust | 📅 2023-11-22
-* **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,692 | 🐛 78 | 🌐 Java | 📅 2026-10-16; [Javacord](https://github.com/BtoBastian/Javacord) ⭐ 767 | 🐛 112 | 🌐 Java | 📅 2025-02-07; [Discord4J](https://github.com/austinv11/Discord4J) ⭐ 1,924 | 🐛 30 | 🌐 Java | 📅 2026-10-16
+* **Go**: [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,990 | 🐛 233 | 🌐 Go | 📅 2026-02-14; [DisGord](https://github.com/andersfylling/disgord) ⚠️ Archived; [Arikawa](https://github.com/diamondburned/arikawa) ⭐ 601 | 🐛 35 | 🌐 Go | 📅 2026-05-18
+* **Rust**: [Serenity](https://github.com/zeyla/serenity) ⭐ 5,634 | 🐛 60 | 🌐 Rust | 📅 2026-10-20; [discord-rs](https://github.com/SpaceManiac/discord-rs) ⭐ 398 | 🐛 18 | 🌐 Rust | 📅 2023-11-22
+* **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,692 | 🐛 78 | 🌐 Java | 📅 2026-10-16; [Javacord](https://github.com/BtoBastian/Javacord) ⭐ 767 | 🐛 112 | 🌐 Java | 📅 2025-02-07; [Discord4J](https://github.com/austinv11/Discord4J) ⭐ 1,924 | 🐛 30 | 🌐 Java | 📅 2026-10-20
 * **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,518 | 🐛 112 | 🌐 C# | 📅 2026-10-08; [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) ⭐ 1,336 | 🐛 80 | 🌐 C# | 📅 2026-09-23
 * **Lua**: [Discordia](https://github.com/SinisterRectus/Discordia) ⭐ 774 | 🐛 51 | 🌐 Lua | 📅 2026-08-24
 * **TypeScript**: [typeit/discord](https://github.com/oceanroleplay/discord.ts) ⭐ 735 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29
@@ -61,7 +61,7 @@
 * **Dart**: [nyxx](https://github.com/l7ssha/nyxx) ⭐ 346 | 🐛 2 | 🌐 Dart | 📅 2026-09-15
 * **Clojure**: [discljord](https://github.com/igjoshua/discljord) ⭐ 234 | 🐛 21 | 🌐 Clojure | 📅 2024-07-22
 * **C++**: [aegis.cpp](https://github.com/zeroxs/aegis.cpp) ⚠️ Archived; [DPP](https://github.com/brainboxdotcc/DPP) ⭐ 1,399 | 🐛 4 | 🌐 C++ | 📅 2026-10-02
-* **PHP**: [RestCord](https://github.com/restcord/restcord) ⭐ 175 | 🐛 3 | 🌐 PHP | 📅 2026-10-17; [Yasmin](https://github.com/CharlotteDunois/Yasmin)
+* **PHP**: [RestCord](https://github.com/restcord/restcord) ⭐ 175 | 🐛 4 | 🌐 PHP | 📅 2026-10-20; [Yasmin](https://github.com/CharlotteDunois/Yasmin)
 * **Swift**: [Sword](https://github.com/Azoy/Sword) ⚠️ Archived
 * **Crystal**: [discordcr](https://github.com/meew0/discordcr) ⚠️ Archived
 * **Haxe**: [Haxicord](https://github.com/RaidAndFade/Haxicord) ⭐ 61 | 🐛 2 | 🌐 Haxe | 📅 2022-10-06
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
