@@ -15,11 +15,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T08:42:17Z",
-            "open_issues": 155,
+            "last_commit": "2026-10-21T20:01:17Z",
+            "open_issues": 156,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26820,
+            "stars": 26819,
             "topics": [
               "bot",
               "discord",
@@ -50,7 +50,7 @@
             "open_issues": 181,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16199,
+            "stars": 16200,
             "topics": [
               "bot",
               "discord",
@@ -103,7 +103,7 @@
             "language": "Rust",
             "license": "ISC",
             "last_commit": "2026-10-20T18:31:31Z",
-            "open_issues": 60,
+            "open_issues": 59,
             "owner": "serenity-rs",
             "repo": "serenity",
             "stars": 5636,
@@ -166,7 +166,7 @@
             "open_issues": 112,
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3518,
+            "stars": 3519,
             "topics": [
               "bot",
               "csharp",
@@ -574,7 +574,7 @@
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4902,
+            "stars": 4907,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T19:35:21.335Z",
+    "last_updated": "2026-10-22T19:28:16.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
