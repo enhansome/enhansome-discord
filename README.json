@@ -15,11 +15,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T20:01:17Z",
-            "open_issues": 157,
+            "last_commit": "2026-10-23T20:11:33Z",
+            "open_issues": 158,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26818,
+            "stars": 26820,
             "topics": [
               "bot",
               "discord",
@@ -50,7 +50,7 @@
             "open_issues": 181,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16198,
+            "stars": 16197,
             "topics": [
               "bot",
               "discord",
@@ -79,7 +79,7 @@
             "open_issues": 233,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5992,
+            "stars": 5991,
             "topics": [
               "discord",
               "discord-api",
@@ -102,7 +102,7 @@
             "id": 73012103,
             "language": "Rust",
             "license": "ISC",
-            "last_commit": "2026-10-22T21:40:12Z",
+            "last_commit": "2026-10-24T13:09:11Z",
             "open_issues": 56,
             "owner": "serenity-rs",
             "repo": "serenity",
@@ -166,7 +166,7 @@
             "open_issues": 112,
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3520,
+            "stars": 3518,
             "topics": [
               "bot",
               "csharp",
@@ -574,7 +574,7 @@
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4908,
+            "stars": 4911,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:31:40.617Z",
+    "last_updated": "2026-10-24T18:21:00.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
