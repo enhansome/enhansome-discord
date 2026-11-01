@@ -15,11 +15,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T22:22:34Z",
-            "open_issues": 157,
+            "last_commit": "2026-11-01T19:42:24Z",
+            "open_issues": 152,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26825,
+            "stars": 26827,
             "topics": [
               "bot",
               "discord",
@@ -103,10 +103,10 @@
             "language": "Rust",
             "license": "ISC",
             "last_commit": "2026-10-31T11:16:20Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5643,
+            "stars": 5642,
             "topics": [
               "discord",
               "discord-api",
@@ -132,7 +132,7 @@
             "open_issues": 79,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4700,
+            "stars": 4699,
             "topics": [
               "api",
               "api-wrapper",
@@ -163,10 +163,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-26T19:59:14Z",
-            "open_issues": 111,
+            "open_issues": 114,
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3522,
+            "stars": 3523,
             "topics": [
               "bot",
               "csharp",
@@ -570,11 +570,11 @@
             "id": 342909700,
             "language": "Kotlin",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-14T11:45:06Z",
+            "last_commit": "2026-11-01T00:22:41Z",
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4915,
+            "stars": 4916,
             "topics": [
               "android",
               "discord",
@@ -600,7 +600,7 @@
             "open_issues": 34,
             "owner": "leovoel",
             "repo": "BeautifulDiscord",
-            "stars": 714,
+            "stars": 715,
             "topics": [
               "demo-gif",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:31:52.821Z",
+    "last_updated": "2026-11-01T19:52:58.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
