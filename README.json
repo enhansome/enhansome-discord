@@ -15,11 +15,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T19:17:38Z",
-            "open_issues": 159,
+            "last_commit": "2026-11-04T20:34:58Z",
+            "open_issues": 155,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26827,
+            "stars": 26828,
             "topics": [
               "bot",
               "discord",
@@ -47,10 +47,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T18:11:46Z",
-            "open_issues": 188,
+            "open_issues": 186,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16202,
+            "stars": 16204,
             "topics": [
               "bot",
               "discord",
@@ -76,10 +76,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-02-14T12:39:28Z",
-            "open_issues": 234,
+            "open_issues": 235,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5995,
+            "stars": 5997,
             "topics": [
               "discord",
               "discord-api",
@@ -102,11 +102,11 @@
             "id": 73012103,
             "language": "Rust",
             "license": "ISC",
-            "last_commit": "2026-10-31T11:16:20Z",
+            "last_commit": "2026-11-04T21:12:49Z",
             "open_issues": 58,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5643,
+            "stars": 5645,
             "topics": [
               "discord",
               "discord-api",
@@ -574,7 +574,7 @@
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4923,
+            "stars": 4924,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:14:51.882Z",
+    "last_updated": "2026-11-04T21:28:44.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
