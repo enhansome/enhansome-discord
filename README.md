@@ -49,12 +49,12 @@
 
 **[Back To Top](#-contents)**
 
-* **Node.js**: [discord.js](https://github.com/discordjs/discord.js) ⭐ 26,828 | 🐛 155 | 🌐 TypeScript | 📅 2026-11-04; [discord.io](https://github.com/izy521/discord.io/) ⚠️ Archived; [eris](https://github.com/abalabahaha/eris) ⭐ 1,514 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28; [interactions.js](https://github.com/fb-sean/interactions.js) ⚠️ Archived
-* **Python**: [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,204 | 🐛 186 | 🌐 Python | 📅 2026-09-07; [disco](https://github.com/b1naryth1ef/disco) ⚠️ Archived
+* **Node.js**: [discord.js](https://github.com/discordjs/discord.js) ⭐ 26,829 | 🐛 155 | 🌐 TypeScript | 📅 2026-11-05; [discord.io](https://github.com/izy521/discord.io/) ⚠️ Archived; [eris](https://github.com/abalabahaha/eris) ⭐ 1,514 | 🐛 46 | 🌐 JavaScript | 📅 2025-09-28; [interactions.js](https://github.com/fb-sean/interactions.js) ⚠️ Archived
+* **Python**: [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,203 | 🐛 186 | 🌐 Python | 📅 2026-09-07; [disco](https://github.com/b1naryth1ef/disco) ⚠️ Archived
 * **Go**: [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,997 | 🐛 235 | 🌐 Go | 📅 2026-02-14; [DisGord](https://github.com/andersfylling/disgord) ⚠️ Archived; [Arikawa](https://github.com/diamondburned/arikawa) ⭐ 604 | 🐛 38 | 🌐 Go | 📅 2026-11-02
-* **Rust**: [Serenity](https://github.com/zeyla/serenity) ⭐ 5,645 | 🐛 58 | 🌐 Rust | 📅 2026-11-04; [discord-rs](https://github.com/SpaceManiac/discord-rs) ⭐ 398 | 🐛 18 | 🌐 Rust | 📅 2023-11-22
-* **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,700 | 🐛 79 | 🌐 Java | 📅 2026-10-23; [Javacord](https://github.com/BtoBastian/Javacord) ⭐ 767 | 🐛 112 | 🌐 Java | 📅 2025-02-07; [Discord4J](https://github.com/austinv11/Discord4J) ⭐ 1,930 | 🐛 32 | 🌐 Java | 📅 2026-11-04
-* **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,524 | 🐛 114 | 🌐 C# | 📅 2026-10-26; [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) ⭐ 1,341 | 🐛 80 | 🌐 C# | 📅 2026-11-01
+* **Rust**: [Serenity](https://github.com/zeyla/serenity) ⭐ 5,649 | 🐛 58 | 🌐 Rust | 📅 2026-11-04; [discord-rs](https://github.com/SpaceManiac/discord-rs) ⭐ 398 | 🐛 18 | 🌐 Rust | 📅 2023-11-22
+* **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,699 | 🐛 79 | 🌐 Java | 📅 2026-10-23; [Javacord](https://github.com/BtoBastian/Javacord) ⭐ 767 | 🐛 112 | 🌐 Java | 📅 2025-02-07; [Discord4J](https://github.com/austinv11/Discord4J) ⭐ 1,930 | 🐛 32 | 🌐 Java | 📅 2026-11-05
+* **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,524 | 🐛 114 | 🌐 C# | 📅 2026-10-26; [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) ⭐ 1,342 | 🐛 80 | 🌐 C# | 📅 2026-11-01
 * **Lua**: [Discordia](https://github.com/SinisterRectus/Discordia) ⭐ 777 | 🐛 51 | 🌐 Lua | 📅 2026-08-24
 * **TypeScript**: [typeit/discord](https://github.com/oceanroleplay/discord.ts) ⭐ 736 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29
 * **Ruby**: [discordrb](https://github.com/shardlab/discordrb) ⭐ 614 | 🐛 84 | 🌐 Ruby | 📅 2026-06-19
@@ -72,7 +72,7 @@
 
 **[Back To Top](#-contents)**
 
-* [tscord](https://github.com/barthofu/tscord) ⭐ 316 | 🐛 7 | 🌐 TypeScript | 📅 2025-01-28 - Create full-fletched discord.js bots from this comprehensive and documented template.
+* [tscord](https://github.com/barthofu/tscord) ⭐ 317 | 🐛 7 | 🌐 TypeScript | 📅 2025-01-28 - Create full-fletched discord.js bots from this comprehensive and documented template.
 * [durl](https://github.com/lukepighetti/durl) ⭐ 9 | 🐛 0 | 🌐 Dart | 📅 2022-11-09 - An authenticated curl-like command-line client for the Discord API
 * [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
 * [discord-logo](http://nntin.github.io/discord-logo) - Create your own animated Discord logo and embed it into your website
@@ -84,7 +84,7 @@
 
 > **WARNING - Use of "client mods" are against the Discord TOS - use at your own risk.**
 
-* [Aliucord](https://github.com/Aliucord/Aliucord) ⭐ 4,924 | 🐛 105 | 🌐 Kotlin | 📅 2026-11-01 - Android Discord client with plugin and themes support.
+* [Aliucord](https://github.com/Aliucord/Aliucord) ⭐ 4,927 | 🐛 105 | 🌐 Kotlin | 📅 2026-11-01 - Android Discord client with plugin and themes support.
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) ⭐ 714 | 🐛 34 | 🌐 Python | 📅 2023-10-25 - Adds custom CSS support to Discord.
 * [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
 * [Powercord](https://powercord.dev) - A lightweight Discord client mod focused on simplicity and performance.
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
