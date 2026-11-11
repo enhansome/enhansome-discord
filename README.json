@@ -19,7 +19,7 @@
             "open_issues": 155,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26831,
+            "stars": 26833,
             "topics": [
               "bot",
               "discord",
@@ -50,7 +50,7 @@
             "open_issues": 187,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16203,
+            "stars": 16206,
             "topics": [
               "bot",
               "discord",
@@ -79,7 +79,7 @@
             "open_issues": 235,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5999,
+            "stars": 6000,
             "topics": [
               "discord",
               "discord-api",
@@ -102,11 +102,11 @@
             "id": 73012103,
             "language": "Rust",
             "license": "ISC",
-            "last_commit": "2026-11-07T22:22:55Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-11T18:13:24Z",
+            "open_issues": 56,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5652,
+            "stars": 5653,
             "topics": [
               "discord",
               "discord-api",
@@ -132,7 +132,7 @@
             "open_issues": 79,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4696,
+            "stars": 4694,
             "topics": [
               "api",
               "api-wrapper",
@@ -162,11 +162,11 @@
             "id": 40171496,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T19:59:14Z",
-            "open_issues": 115,
+            "last_commit": "2026-11-11T21:13:00Z",
+            "open_issues": 112,
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3524,
+            "stars": 3525,
             "topics": [
               "bot",
               "csharp",
@@ -574,7 +574,7 @@
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4940,
+            "stars": 4942,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:25:09.905Z",
+    "last_updated": "2026-11-11T22:14:43.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
