@@ -15,11 +15,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T19:55:50Z",
+            "last_commit": "2026-11-16T23:22:02Z",
             "open_issues": 156,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26837,
+            "stars": 26838,
             "topics": [
               "bot",
               "discord",
@@ -47,10 +47,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T18:11:46Z",
-            "open_issues": 188,
+            "open_issues": 189,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16208,
+            "stars": 16211,
             "topics": [
               "bot",
               "discord",
@@ -106,7 +106,7 @@
             "open_issues": 43,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5658,
+            "stars": 5659,
             "topics": [
               "discord",
               "discord-api",
@@ -132,7 +132,7 @@
             "open_issues": 79,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4693,
+            "stars": 4692,
             "topics": [
               "api",
               "api-wrapper",
@@ -574,7 +574,7 @@
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4943,
+            "stars": 4942,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:32:51.871Z",
+    "last_updated": "2026-11-16T23:50:06.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
@@ -695,7 +695,7 @@
       "open_issues": 37,
       "owner": "jacc",
       "repo": "awesome-discord",
-      "stars": 540,
+      "stars": 541,
       "topics": [
         "addon",
         "awesome",
