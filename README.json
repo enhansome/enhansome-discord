@@ -50,7 +50,7 @@
             "open_issues": 190,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16209,
+            "stars": 16211,
             "topics": [
               "bot",
               "discord",
@@ -76,10 +76,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-02-14T12:39:28Z",
-            "open_issues": 235,
+            "open_issues": 234,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 6002,
+            "stars": 6001,
             "topics": [
               "discord",
               "discord-api",
@@ -103,10 +103,10 @@
             "language": "Rust",
             "license": "ISC",
             "last_commit": "2026-11-15T11:51:00Z",
-            "open_issues": 44,
+            "open_issues": 47,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5661,
+            "stars": 5662,
             "topics": [
               "discord",
               "discord-api",
@@ -132,7 +132,7 @@
             "open_issues": 79,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4692,
+            "stars": 4693,
             "topics": [
               "api",
               "api-wrapper",
@@ -166,7 +166,7 @@
             "open_issues": 114,
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3524,
+            "stars": 3525,
             "topics": [
               "bot",
               "csharp",
@@ -574,7 +574,7 @@
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4941,
+            "stars": 4942,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:08:28.507Z",
+    "last_updated": "2026-11-18T22:41:35.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
