@@ -19,7 +19,7 @@
             "open_issues": 157,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26838,
+            "stars": 26839,
             "topics": [
               "bot",
               "discord",
@@ -50,7 +50,7 @@
             "open_issues": 190,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16211,
+            "stars": 16212,
             "topics": [
               "bot",
               "discord",
@@ -79,7 +79,7 @@
             "open_issues": 234,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 6001,
+            "stars": 5999,
             "topics": [
               "discord",
               "discord-api",
@@ -102,11 +102,11 @@
             "id": 73012103,
             "language": "Rust",
             "license": "ISC",
-            "last_commit": "2026-11-15T11:51:00Z",
+            "last_commit": "2026-11-19T19:20:46Z",
             "open_issues": 47,
             "owner": "serenity-rs",
             "repo": "serenity",
-            "stars": 5662,
+            "stars": 5660,
             "topics": [
               "discord",
               "discord-api",
@@ -132,7 +132,7 @@
             "open_issues": 79,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4693,
+            "stars": 4692,
             "topics": [
               "api",
               "api-wrapper",
@@ -166,7 +166,7 @@
             "open_issues": 114,
             "owner": "discord-net",
             "repo": "Discord.Net",
-            "stars": 3525,
+            "stars": 3524,
             "topics": [
               "bot",
               "csharp",
@@ -221,7 +221,7 @@
             "open_issues": 0,
             "owner": "discordx-ts",
             "repo": "discordx",
-            "stars": 737,
+            "stars": 736,
             "topics": [
               "bot",
               "command",
@@ -254,7 +254,7 @@
             "open_issues": 85,
             "owner": "shardlab",
             "repo": "discordrb",
-            "stars": 613,
+            "stars": 612,
             "topics": [
               "discord",
               "hacktoberfest"
@@ -515,7 +515,7 @@
             "open_issues": 7,
             "owner": "barthofu",
             "repo": "tscord",
-            "stars": 318,
+            "stars": 317,
             "topics": [
               "discord",
               "discord-bot",
@@ -574,7 +574,7 @@
             "open_issues": 105,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4942,
+            "stars": 4940,
             "topics": [
               "android",
               "discord",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:41:35.625Z",
+    "last_updated": "2026-11-19T22:45:18.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
@@ -692,7 +692,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-05-11T15:03:26Z",
-      "open_issues": 38,
+      "open_issues": 39,
       "owner": "jacc",
       "repo": "awesome-discord",
       "stars": 541,
