@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T11:59:53Z",
-            "open_issues": 154,
+            "open_issues": 145,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26841,
+            "stars": 26843,
             "topics": [
               "bot",
               "discord",
@@ -50,7 +50,7 @@
             "open_issues": 190,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16215,
+            "stars": 16217,
             "topics": [
               "bot",
               "discord",
@@ -103,7 +103,7 @@
             "language": "Rust",
             "license": "ISC",
             "last_commit": "2026-11-19T19:20:46Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "serenity-rs",
             "repo": "serenity",
             "stars": 5660,
@@ -132,7 +132,7 @@
             "open_issues": 79,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4692,
+            "stars": 4691,
             "topics": [
               "api",
               "api-wrapper",
@@ -192,7 +192,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-08-24T19:54:19Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "SinisterRectus",
             "repo": "Discordia",
             "stars": 776,
@@ -274,8 +274,8 @@
             "id": 137649076,
             "language": "Dart",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T11:15:08Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-20T23:59:13Z",
+            "open_issues": 1,
             "owner": "nyxx-discord",
             "repo": "nyxx",
             "stars": 345,
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:20:26.260Z",
+    "last_updated": "2026-11-21T21:07:05.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",
@@ -695,7 +695,7 @@
       "open_issues": 39,
       "owner": "jacc",
       "repo": "awesome-discord",
-      "stars": 541,
+      "stars": 540,
       "topics": [
         "addon",
         "awesome",
