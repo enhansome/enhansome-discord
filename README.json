@@ -15,11 +15,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T16:21:52Z",
-            "open_issues": 127,
+            "last_commit": "2026-11-26T21:39:32Z",
+            "open_issues": 130,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26832,
+            "stars": 26834,
             "topics": [
               "bot",
               "discord",
@@ -50,7 +50,7 @@
             "open_issues": 193,
             "owner": "Rapptz",
             "repo": "discord.py",
-            "stars": 16215,
+            "stars": 16213,
             "topics": [
               "bot",
               "discord",
@@ -129,10 +129,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T19:15:26Z",
-            "open_issues": 79,
+            "open_issues": 81,
             "owner": "discord-jda",
             "repo": "JDA",
-            "stars": 4692,
+            "stars": 4693,
             "topics": [
               "api",
               "api-wrapper",
@@ -162,8 +162,8 @@
             "id": 40171496,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-25T20:42:03Z",
-            "open_issues": 115,
+            "last_commit": "2026-11-26T19:32:18Z",
+            "open_issues": 114,
             "owner": "discord-net",
             "repo": "Discord.Net",
             "stars": 3524,
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:46:31.885Z",
+    "last_updated": "2026-11-26T23:59:01.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕹 A curated list of awesome things on Discord.",

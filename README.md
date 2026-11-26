@@ -49,12 +49,12 @@
 
 **[Back To Top](#-contents)**
 
-* **Node.js**: [discord.js](https://github.com/discordjs/discord.js) ⭐ 26,832 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-24; [discord.io](https://github.com/izy521/discord.io/) ⚠️ Archived; [eris](https://github.com/abalabahaha/eris) ⭐ 1,512 | 🐛 47 | 🌐 JavaScript | 📅 2025-09-28; [interactions.js](https://github.com/fb-sean/interactions.js) ⚠️ Archived
-* **Python**: [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,215 | 🐛 193 | 🌐 Python | 📅 2026-09-07; [disco](https://github.com/b1naryth1ef/disco) ⚠️ Archived
+* **Node.js**: [discord.js](https://github.com/discordjs/discord.js) ⭐ 26,834 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-26; [discord.io](https://github.com/izy521/discord.io/) ⚠️ Archived; [eris](https://github.com/abalabahaha/eris) ⭐ 1,512 | 🐛 47 | 🌐 JavaScript | 📅 2025-09-28; [interactions.js](https://github.com/fb-sean/interactions.js) ⚠️ Archived
+* **Python**: [discord.py](https://github.com/Rapptz/discord.py) ⭐ 16,213 | 🐛 193 | 🌐 Python | 📅 2026-09-07; [disco](https://github.com/b1naryth1ef/disco) ⚠️ Archived
 * **Go**: [Discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,996 | 🐛 234 | 🌐 Go | 📅 2026-02-14; [DisGord](https://github.com/andersfylling/disgord) ⚠️ Archived; [Arikawa](https://github.com/diamondburned/arikawa) ⭐ 609 | 🐛 38 | 🌐 Go | 📅 2026-11-16
 * **Rust**: [Serenity](https://github.com/zeyla/serenity) ⭐ 5,665 | 🐛 51 | 🌐 Rust | 📅 2026-11-19; [discord-rs](https://github.com/SpaceManiac/discord-rs) ⭐ 397 | 🐛 18 | 🌐 Rust | 📅 2023-11-22
-* **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,692 | 🐛 79 | 🌐 Java | 📅 2026-10-23; [Javacord](https://github.com/BtoBastian/Javacord) ⭐ 765 | 🐛 112 | 🌐 Java | 📅 2025-02-07; [Discord4J](https://github.com/austinv11/Discord4J) ⭐ 1,923 | 🐛 31 | 🌐 Java | 📅 2026-11-23
-* **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,524 | 🐛 115 | 🌐 C# | 📅 2026-11-25; [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) ⭐ 1,342 | 🐛 80 | 🌐 C# | 📅 2026-11-25
+* **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/) ⭐ 4,693 | 🐛 81 | 🌐 Java | 📅 2026-10-23; [Javacord](https://github.com/BtoBastian/Javacord) ⭐ 765 | 🐛 112 | 🌐 Java | 📅 2025-02-07; [Discord4J](https://github.com/austinv11/Discord4J) ⭐ 1,923 | 🐛 31 | 🌐 Java | 📅 2026-11-23
+* **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net) ⭐ 3,524 | 🐛 114 | 🌐 C# | 📅 2026-11-26; [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) ⭐ 1,342 | 🐛 81 | 🌐 C# | 📅 2026-11-26
 * **Lua**: [Discordia](https://github.com/SinisterRectus/Discordia) ⭐ 776 | 🐛 52 | 🌐 Lua | 📅 2026-08-24
 * **TypeScript**: [typeit/discord](https://github.com/oceanroleplay/discord.ts) ⭐ 736 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29
 * **Ruby**: [discordrb](https://github.com/shardlab/discordrb) ⭐ 612 | 🐛 87 | 🌐 Ruby | 📅 2026-06-19
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
